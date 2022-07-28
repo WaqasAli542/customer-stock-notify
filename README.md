@@ -1,2 +1,1 @@
-# out-of-stock-notifications
-• Allows you to restrict the access of desired frontend pages on your website for guest user. • You can set customer URL for redirection after user login • Enable/Disable customer registration • Admin can disable multiple CMS pages for the guest users • Admin can set custom error message for not accessible pages • Admin can disable all other pages • Admin can give direct access to some pages
+Out-of-stock notification extension helps the vendor(s) let the customer(s) subscribe to the specific product(s) if it is out of stock at that time. The customer(s) will get the email once the product is available on the website. This extension works for community, enterprise and cloud versions.
